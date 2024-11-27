@@ -1,0 +1,15 @@
+#container{
+    display: flex;
+    flex-direction: column;
+}
+
+.row{
+    display: flex;
+}
+
+.square{
+    display: flex;
+    width: 10px;
+    height: 10px;
+    background-color: blue;
+}
